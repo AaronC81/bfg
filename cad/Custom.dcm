@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8052
+F DOCUMENTATION
+$ENDCMP
+#
+$CMP AD9833_Breakout
+F DOCUMENTATION
+$ENDCMP
+#
+$CMP SSD1306_128x32
+F DOCUMENTATION
+$ENDCMP
+#
+$CMP USB_B_Micro_NoShield
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+#End Doc Library
